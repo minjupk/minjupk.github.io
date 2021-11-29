@@ -22,7 +22,7 @@ title:              Dev Blog
 email:              minjupk@hotmail.com
 description:        Tech blog where I put stuff that I find interesting
 author:             Minju Park
-baseurl:            "/minjupk.github.io"
+baseurl:            ""
 url:                "https://minjupk.github.io"
 
 # Social Profiles
