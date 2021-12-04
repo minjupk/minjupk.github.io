@@ -18,9 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:              Dev Blog
+title:              Minju's Software Development Blog 💻
+brandtitle:         💻
 email:              minjupk@hotmail.com
-description:        Tech blog where I put stuff that I find interesting
+description:        I will create posts on things that are interesting.. hopefully 🤷‍♀️
 author:             Minju Park
 baseurl:            ""
 url:                "https://minjupk.github.io"
