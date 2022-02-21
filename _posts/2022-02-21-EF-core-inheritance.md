@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EF Core Inheritance"
-subtitle: "How hierarchy works"
+subtitle: "How different approaches work"
 date: 2022-02-20 01:23:55 -4000
 background: '/img/posts/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg'
 ---
